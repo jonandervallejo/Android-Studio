@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RetoIndividual1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="inicio">Inicio</string>
+    <string name="mapa">Mapa</string>
+    <string name="galeria">Galeria</string>
+    <string name="sergio_diego">Sergio Diego</string>
+    <string name="sergiodiego_almi_eus">sergiodiego@almi.eus</string>
+    <string name="interior">Interior</string>
+    <string name="exterior">Exterior</string>
+
+    <string-array name="Cursos">
+        <item>DAM1</item>
+        <item>DAM2</item>
+        <item>SMR1</item>
+        <item>SMR2</item>
+        <item>GA1</item>
+        <item>GA2</item>
+    </string-array>
+
+</resources>
